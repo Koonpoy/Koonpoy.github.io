@@ -4,7 +4,7 @@
 Now I'm Study ComputerEngineering at KMUTNB  
 Thailand  
 Born in 2003  
-:envelope_with_arrow: s6401012630141@email.kmutnb.ac.th
+:envelope_with_arrow: s6401012630141@email.kmutnb.ac.th  
 :phone: 062-567-4015
 
 
