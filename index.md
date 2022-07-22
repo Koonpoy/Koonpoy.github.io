@@ -2,7 +2,7 @@
 
 ## Anecha Khumjun
 ### Student of ComputerEngineering 
-:thailand:Thailand </br>
+Thailand  
 Born in 2003
 
 
