@@ -4,7 +4,6 @@
 ### Student of ComputerEngineering 
 
 Thailand
-
-Born 2003
+Born in 2003
 
 
