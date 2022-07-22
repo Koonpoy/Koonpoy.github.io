@@ -1,4 +1,4 @@
-![Book logo](/Mypicture.jpg)=250x250
+![Book logo](/Mypicture.jpg=250x250)
 
 ## Anecha Khumjun
 ### Student of ComputerEngineering 
