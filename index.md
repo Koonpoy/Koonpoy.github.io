@@ -1,4 +1,4 @@
-![Book logo](/Koonpoy.github.io/Mypicture.png)
+![Book logo](/Koonpoy.github.io/Mypicture.jpg)
 
 ## Anecha Khumjun
 ### Student of ComputerEngineering 
