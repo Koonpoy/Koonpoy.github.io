@@ -1,4 +1,4 @@
-![Book logo](/Mypicture.jpg=250x250)
+<img src="Mypicture.jpg" width="100" height="100">
 
 ## Anecha Khumjun
 ### Student of ComputerEngineering 
