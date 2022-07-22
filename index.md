@@ -1,4 +1,4 @@
-<img src="Mypicture.jpg" width="100" height="100">
+<img src="Mypicture.jpg" width="400" height="400">
 
 ## Anecha Khumjun
 ### Student of ComputerEngineering 
