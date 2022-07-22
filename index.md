@@ -3,7 +3,7 @@
 ## Anecha Khumjun (poy)  
 Thailand  
 Born in 2003  
-**contract**
+**contract**  
 :envelope_with_arrow: s6401012630141@email.kmutnb.ac.th  
 :phone: 062-567-4015
 
