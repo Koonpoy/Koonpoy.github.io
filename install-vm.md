@@ -59,6 +59,9 @@ Click Close VM.
 
 ### Enable Virtualization Technology on Your Computer.
 
+The error above arises because virtualization technology is disabled on your computer by default. We need to enable it. Let’s do that now.
+[Click here](https://www.youtube.com/watch?v=UMo-is3fjPI)
+
 
 
 
