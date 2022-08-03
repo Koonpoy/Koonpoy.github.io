@@ -1,4 +1,4 @@
-<img src="Mypicture.jpg" width="400" height="400">
+<img src="images/Mypicture.jpg" width="400" height="400">
 
 ## Anecha Khumjun (poy)
 Thailand TH  
