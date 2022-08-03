@@ -1,2 +1,1 @@
-
-#How to install linux on virtual machine
+# How to install linux on virtual machine
