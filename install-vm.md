@@ -57,7 +57,7 @@ You might get an error that looks like this.
 
 Click Close VM.
 
-### Enable Virtualization Technology on Your Computer
+### Enable Virtualization Technology on Your Computer.
 
 
 
