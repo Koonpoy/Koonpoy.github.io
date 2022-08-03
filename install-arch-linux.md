@@ -33,4 +33,20 @@ You can choose a preferred location path for the virtual hard disk and tweak the
 
 ![image](https://user-images.githubusercontent.com/100128996/182670424-5f8edbee-a90e-4132-b095-52aee9c0ae96.png)
 
+### Adding the ISO File to Start Installing Arch Linux
+
+![image](https://user-images.githubusercontent.com/100128996/182671422-0e3782a3-b5b7-49ee-8e62-39827137e7e3.png)
+
+![image](https://user-images.githubusercontent.com/100128996/182671668-ed05e1b2-03c8-433a-862e-3d8e96d850a5.png)
+
+Once you select it, hit “OK” to save the changes to your setting.
+
+Now, hit “Start” to start the VM and get started with the installation.
+
+![image](https://user-images.githubusercontent.com/100128996/182672000-fb3fa995-01f7-467f-9575-601ce2bb28cb.png)
+
+
+
+
+
 
