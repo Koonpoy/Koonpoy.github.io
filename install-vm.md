@@ -30,6 +30,19 @@ choose the memory size you want to give a virsual machine.If you think it not en
 
 ![image](https://user-images.githubusercontent.com/100128996/182581047-78fead17-a086-4abe-8b7f-aba93a2a1edc.png)
 
+Make sure “Create a virtual hard disk now” is selected, and click Create.
+
+![image](https://user-images.githubusercontent.com/100128996/182582111-765f5442-cdb4-4eea-9a37-6c2e1f6a736f.png)
+
+Select “VirtualBox Disk Image (VDI)”, and click Next.
+Choose a Fixed size virtual hard disk so that you have better performance, and click next.
+
+![image](https://user-images.githubusercontent.com/100128996/182582606-8d21e6d0-6413-4aa7-9f4e-2e197fea2bae.png)
+
+
+
+
+
 
 
 
