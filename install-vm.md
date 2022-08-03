@@ -47,6 +47,9 @@ Double-click on the left panel where it says “Ubuntu 18.04.” A startup windo
 
 ![image](https://user-images.githubusercontent.com/100128996/182583746-f0903f07-ff20-452c-8fb9-b81a56a473ab.png)
 
+Click the Folder icon next to Empty and select the Ubuntu image you downloaded earlier in this tutorial. It is a .iso file. You can make sure that your .iso file is somewhere in your C drive (doesn’t have to be on your Desktop). Then click Start to proceed.
+
+![image](https://user-images.githubusercontent.com/100128996/182597175-5fea75fa-e4c4-4dd3-9084-bb383a3d6ed0.png)
 
 
 
