@@ -37,7 +37,12 @@ Make sure “Create a virtual hard disk now” is selected, and click Create.
 Select “VirtualBox Disk Image (VDI)”, and click Next.
 Choose a Fixed size virtual hard disk so that you have better performance, and click next.
 
-![image](https://user-images.githubusercontent.com/100128996/182582606-8d21e6d0-6413-4aa7-9f4e-2e197fea2bae.png)
+![image](https://user-images.githubusercontent.com/100128996/182582838-760ab49e-3e30-4294-a61f-3d0eedeb34df.png)
+
+choose hard disk space for Virtual box 
+
+![image](https://user-images.githubusercontent.com/100128996/182583125-43bcc550-dc82-4425-9d22-3e1d7b5f88d0.png)
+
 
 
 
