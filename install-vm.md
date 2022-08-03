@@ -20,7 +20,7 @@ You can watch this video to install Virtualbox  [go to video](https://www.youtub
 Now that VirtualBox is installed on your computer, we need to now create a new virtual machine.
 Click the New button in the toolbar.
 
-![image](https://user-images.githubusercontent.com/100128996/182579813-0954022e-9006-4977-928c-fdb58d4dfeec.png)
+![image](https://user-images.githubusercontent.com/100128996/182580219-5cea5e59-11fa-46d4-b549-bc5be926bf9c.png)
 
 
 
