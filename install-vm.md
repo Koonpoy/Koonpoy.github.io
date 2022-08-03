@@ -64,12 +64,12 @@ when you complete Enable Virtualization and reboot your computer.
 Double-click on the VirtualBox icon to start it.
 Click on the left panel of the window to start the Ubuntu virtual machine. Or you can just click Start in the toolbar.
 
-![image](https://user-images.githubusercontent.com/100128996/182601132-28e9330e-8c3e-40a1-8571-4ac39196c8ec.png)
+![image](https://user-images.githubusercontent.com/100128996/182602875-80f50355-9d29-4598-a1f2-67beef6f4035.png)
 
 ### Install Ubuntu
 Click on “Install Ubuntu” to install Ubuntu.
 
-![image](https://user-images.githubusercontent.com/100128996/182601383-fd04d0b1-bc4d-4c52-86a5-d27b6976330a.png)
+![image](https://user-images.githubusercontent.com/100128996/182602685-669ddc97-4b95-4ac0-92ef-0a1692c4cfad.png)
 
 Click “Continue” to save the keyboard layout. The default English one is fine.
 
