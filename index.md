@@ -11,7 +11,6 @@ Now I'm Study ComputerEngineering at KMUTNB
 :phone: 062-567-4015
 
 **online blog**
-
 * [install linux with virtual machine](https://www.youtube.com/watch?v=EgBNAXgkDHw)
 
 
