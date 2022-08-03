@@ -16,7 +16,6 @@ You can watch this video to install Virtualbox  [go to video](https://www.youtub
   ![image](https://user-images.githubusercontent.com/100128996/182576705-084aec64-ff56-4080-8c6f-596c7c00e450.png) 
   
 ### Create a Virtual Machine.
-
 Now that VirtualBox is installed on your computer, we need to now create a new virtual machine.
 Click the New button in the toolbar.
 
@@ -58,9 +57,33 @@ You might get an error that looks like this.
 Click Close VM.
 
 ### Enable Virtualization Technology on Your Computer.
-
 The error above arises because virtualization technology is disabled on your computer by default. We need to enable it. Let’s do that now.
 [Click here](https://www.youtube.com/watch?v=UMo-is3fjPI)
+
+when you complete Enable Virtualization and reboot your computer.
+Double-click on the VirtualBox icon to start it.
+Click on the left panel of the window to start the Ubuntu virtual machine. Or you can just click Start in the toolbar.
+
+![image](https://user-images.githubusercontent.com/100128996/182601132-28e9330e-8c3e-40a1-8571-4ac39196c8ec.png)
+
+### Install Ubuntu
+Click on “Install Ubuntu” to install Ubuntu.
+
+![image](https://user-images.githubusercontent.com/100128996/182601383-fd04d0b1-bc4d-4c52-86a5-d27b6976330a.png)
+
+Click “Continue” to save the keyboard layout. The default English one is fine.
+
+Keep clicking Continue through all the prompts. The options you want selected as you go through the prompts are the following:
+
+*Download updates while installing Ubuntu
+*Erase disk and install Ubuntu
+
+You will get to a point where you will need to set your time zone. It will be a big map of the world that should automatically detect your location.
+Type in a computer name and pick a username and password. I select the “Log in automatically” option.
+
+
+
+
 
 
 
