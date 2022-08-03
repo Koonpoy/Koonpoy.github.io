@@ -12,6 +12,6 @@ Now I'm Study ComputerEngineering at KMUTNB
 
 **online blog**
 
-[install linux with virtual machine](https://www.youtube.com/watch?v=EgBNAXgkDHw)
+* [install linux with virtual machine](https://www.youtube.com/watch?v=EgBNAXgkDHw)
 
 
