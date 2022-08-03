@@ -10,8 +10,8 @@ Now I'm Study ComputerEngineering at KMUTNB
 :envelope_with_arrow: s6401012630141@email.kmutnb.ac.th  
 :phone: 062-567-4015
 
-**online blog**
-* [Install_Ubuntu_on_window_11](install-vm.md)
-* [Install_Arch_linux_on_window_11](install-arch-linux.md)
+**my online blog**
+* [How to install Ubuntu on window 11](install-vm.md)
+* [How to install Arch Linux on window 11](install-arch-linux.md)
 
 
