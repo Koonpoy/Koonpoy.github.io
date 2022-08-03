@@ -3,7 +3,7 @@
 ![ubuntuGif](images/Ubuntu_gif.gif)
 
 ### YOUR PC REQUIRED SPEC !
-> You will need : [required processor, memory, and hard drive space](https://www.virtualbox.org/wiki/End-user_documentation)
+You will need : [required processor, memory, and hard drive space](https://www.virtualbox.org/wiki/End-user_documentation)
 
 ### Download the Ubuntu.
 > Check Ubuntu Releases to find the latest version of Ubuntu that has long term support (LTS).the latest release is Ubuntu 22.04 LTS. You can download another version > if you want . [link download](https://ubuntu.com/download/desktop) and when your download complete you will get .iso file. 
