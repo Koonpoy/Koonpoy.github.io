@@ -12,5 +12,6 @@ Now I'm Study ComputerEngineering at KMUTNB
 
 **online blog**
 * [Install_Ubuntu_on_window_11](install-vm.md)
+* [Install_Arch_linux_on_window_11](install-arch-linux.md)
 
 
