@@ -1,2 +1,2 @@
-theme: jekyll-theme-Minimal
+theme: Midnight
 # How to install linux on virtual machine
