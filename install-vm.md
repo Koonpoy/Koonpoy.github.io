@@ -52,7 +52,7 @@ Click the Folder icon next to Empty and select the Ubuntu image you downloaded e
 
 You might get an error that looks like this.
 
-![image](https://user-images.githubusercontent.com/100128996/182599045-2cef8967-64e2-41c2-a2a9-1170f3f194c1.png)
+![image](https://user-images.githubusercontent.com/100128996/182603151-cf9319c7-d18d-4f16-8d56-a1f045f81608.png)
 
 Click Close VM.
 
