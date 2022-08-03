@@ -10,6 +10,8 @@ Now I'm Study ComputerEngineering at KMUTNB
 :envelope_with_arrow: s6401012630141@email.kmutnb.ac.th  
 :phone: 062-567-4015
 
-[link](https://www.youtube.com/watch?v=EgBNAXgkDHw)
+**online blog**
+
+[install linux with virtual machine](https://www.youtube.com/watch?v=EgBNAXgkDHw)
 
 
