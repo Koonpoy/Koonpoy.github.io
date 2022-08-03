@@ -81,6 +81,8 @@ Keep clicking Continue through all the prompts. The options you want selected as
 You will get to a point where you will need to set your time zone. It will be a big map of the world that should automatically detect your location.
 Type in a computer name and pick a username and password. I select the “Log in automatically” option.
 
+When installation is complete, click “Restart Now.”
+
 
 
 
