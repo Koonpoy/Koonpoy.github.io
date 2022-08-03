@@ -74,10 +74,10 @@
 > Click “Continue” to save the keyboard layout. The default English one is fine.
 >
 > Keep clicking Continue through all the prompts. The options you want selected as you go through the prompts are the following:
-
+>
 > * Download updates while installing Ubuntu
 > * Erase disk and install Ubuntu
-
+>
 > You will get to a point where you will need to set your time zone. It will be a big map of the world that should automatically detect your location.
 > Type in a computer name and pick a username and password. I select the “Log in automatically” option.
 >
