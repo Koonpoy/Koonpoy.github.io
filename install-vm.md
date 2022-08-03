@@ -1,6 +1,6 @@
 # Steps to Install Ubuntu in VirtualBox on Windows 11
 
-![ubuntuGif](images/Ubuntu_Gif.gif)
+![ubuntuGif](images/Ubuntu_gif.gif)
 
 
 
