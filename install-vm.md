@@ -66,7 +66,7 @@ Click on the left panel of the window to start the Ubuntu virtual machine. Or yo
 
 ![image](https://user-images.githubusercontent.com/100128996/182602875-80f50355-9d29-4598-a1f2-67beef6f4035.png)
 
-### Install Ubuntu
+### Install Ubuntu.
 Click on “Install Ubuntu” to install Ubuntu.
 
 ![image](https://user-images.githubusercontent.com/100128996/182602685-669ddc97-4b95-4ac0-92ef-0a1692c4cfad.png)
