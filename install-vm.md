@@ -25,7 +25,7 @@
 
 ![image](https://user-images.githubusercontent.com/100128996/182580574-327b5a9a-88e4-4814-b22c-bb3154987a49.png)
 
-> choose the memory size you want to give a virsual machine.If you think it not enough ,You can comeback and change agian later .
+> Choose the memory size you want to give a virsual machine.If you think it not enough ,You can comeback and change agian later .
 
 ![image](https://user-images.githubusercontent.com/100128996/182581047-78fead17-a086-4abe-8b7f-aba93a2a1edc.png)
 
@@ -38,7 +38,7 @@
 
 ![image](https://user-images.githubusercontent.com/100128996/182582838-760ab49e-3e30-4294-a61f-3d0eedeb34df.png)
 
-> choose hard disk space for Virtual box.
+> Choose hard disk space for Virtual box.
 
 ![image](https://user-images.githubusercontent.com/100128996/182583125-43bcc550-dc82-4425-9d22-3e1d7b5f88d0.png)
 
