@@ -43,6 +43,11 @@ choose hard disk space for Virtual box.
 
 ![image](https://user-images.githubusercontent.com/100128996/182583125-43bcc550-dc82-4425-9d22-3e1d7b5f88d0.png)
 
+Double-click on the left panel where it says “Ubuntu 18.04.” A startup window will appear.
+
+![image](https://user-images.githubusercontent.com/100128996/182583746-f0903f07-ff20-452c-8fb9-b81a56a473ab.png)
+
+
 
 
 
