@@ -51,6 +51,13 @@ Click the Folder icon next to Empty and select the Ubuntu image you downloaded e
 
 ![image](https://user-images.githubusercontent.com/100128996/182597175-5fea75fa-e4c4-4dd3-9084-bb383a3d6ed0.png)
 
+You might get an error that looks like this.
+
+![image](https://user-images.githubusercontent.com/100128996/182599045-2cef8967-64e2-41c2-a2a9-1170f3f194c1.png)
+
+Click Close VM.
+
+### Enable Virtualization Technology on Your Computer
 
 
 
