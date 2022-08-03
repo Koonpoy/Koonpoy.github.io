@@ -11,7 +11,8 @@ Check Ubuntu Releases to find the latest version of Ubuntu that has long term su
 ![image](https://user-images.githubusercontent.com/100128996/182571580-d308b973-498b-46d9-a6cd-03b629ebef69.png)
 
 ### Install VirtualBox.
+You can watch this video to install Virtualbox  [go to video](https://www.youtube.com/watch?v=b866-7Y_0KQ)
   
   ![image](https://user-images.githubusercontent.com/100128996/182576705-084aec64-ff56-4080-8c6f-596c7c00e450.png)  
 
-You can watch this video to install Virtualbox  [go to video](https://www.youtube.com/watch?v=b866-7Y_0KQ)
+
