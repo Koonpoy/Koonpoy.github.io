@@ -11,6 +11,6 @@ Now I'm Study ComputerEngineering at KMUTNB
 :phone: 062-567-4015
 
 **online blog**
-* [install linux with virtual machine](install-vm.md)
+* [install ubutu on window 11](install-vm.md)
 
 
