@@ -15,12 +15,21 @@ You can watch this video to install Virtualbox  [go to video](https://www.youtub
   
   ![image](https://user-images.githubusercontent.com/100128996/182576705-084aec64-ff56-4080-8c6f-596c7c00e450.png) 
   
-### Create a Virtual Machine
+### Create a Virtual Machine.
 
 Now that VirtualBox is installed on your computer, we need to now create a new virtual machine.
 Click the New button in the toolbar.
 
 ![image](https://user-images.githubusercontent.com/100128996/182580219-5cea5e59-11fa-46d4-b549-bc5be926bf9c.png)
+
+Type in a descriptive name for your operating system. You can stick with the default machine folder. The machine folder is where your virtual machines will be stored.
+
+![image](https://user-images.githubusercontent.com/100128996/182580574-327b5a9a-88e4-4814-b22c-bb3154987a49.png)
+
+choose the memory size you want to give a virsual machine.If you think it not enough ,You can comeback and change agian later .
+
+![image](https://user-images.githubusercontent.com/100128996/182581047-78fead17-a086-4abe-8b7f-aba93a2a1edc.png)
+
 
 
 
