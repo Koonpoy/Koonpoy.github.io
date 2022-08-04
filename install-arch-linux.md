@@ -86,8 +86,20 @@ It will take a few minute to install .
 
 ![image](https://user-images.githubusercontent.com/100128996/182810902-e5b47762-e79e-4d60-8c0f-4798654f5e42.png)
 
+Choose " Yes "
 
+![image](https://user-images.githubusercontent.com/100128996/182812551-9d678a52-b424-48e3-9322-5b31e9439cb4.png)
 
+Your install almost complete now you need to reboot virtualbox.
+After you reboot your virtualbox and open it click setting and go to storage .
+
+![image](https://user-images.githubusercontent.com/100128996/182813407-8a74b299-f2cf-439c-8654-c24bc5717cdb.png)
+
+![image](https://user-images.githubusercontent.com/100128996/182813593-b01a1c81-4537-48e5-a798-ba04641ba64c.png)
+
+Right click the iso file and remove it .
+
+![image](https://user-images.githubusercontent.com/100128996/182813915-bed2b05a-ae78-4dcb-a536-5b5e11f85bde.png)
 
 
 
