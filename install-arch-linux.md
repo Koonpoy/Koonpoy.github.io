@@ -45,6 +45,42 @@ Now, hit “Start” to start the VM and get started with the installation.
 
 ![image](https://user-images.githubusercontent.com/100128996/182672000-fb3fa995-01f7-467f-9575-601ce2bb28cb.png)
 
+Moving on to the installation, when you start the VM, you will be looking at this screen:
+The first option is the ideal way of proceeding. If you have a specific requirement, you can choose other options to boot up Arch Linux.
+
+![image](https://user-images.githubusercontent.com/100128996/182805377-f920e502-2a55-414a-ab43-4d07230fad54.png)
+
+Type in “archinstall” to initiate installation using the guided installer.
+
+![image](https://user-images.githubusercontent.com/100128996/182806154-d577c05e-d471-4c57-902d-32edf8bd6bb2.png)
+
+You can choose a keyboard , Timezone , region , in this setting.
+
+![image](https://user-images.githubusercontent.com/100128996/182806514-de990bc9-9ece-4350-bcda-b8d37a9039ea.png)
+
+Select disk layout.
+
+![image](https://user-images.githubusercontent.com/100128996/182809818-b3a5b9a0-094a-48b6-9a96-8f3c27136144.png)
+
+![image](https://user-images.githubusercontent.com/100128996/182809884-15e60b30-3fb0-46b3-8123-b39fed915592.png)
+
+![image](https://user-images.githubusercontent.com/100128996/182809985-46f19448-4145-42b4-8e76-74ea91d31b88.png)
+
+![image](https://user-images.githubusercontent.com/100128996/182810102-1f027b33-82c0-4b91-80b2-1c89a1f262d8.png)
+
+Set your root password.when you complete setting go to install.
+
+![image](https://user-images.githubusercontent.com/100128996/182810522-99dd6e28-7158-47ad-9a5e-38f8df37c7f0.png)
+
+"Press Enter"
+
+![image](https://user-images.githubusercontent.com/100128996/182810607-05ba6454-40ad-4c44-a388-b7e83021f853.png)
+
+It will take a few minute to install .
+
+![image](https://user-images.githubusercontent.com/100128996/182810902-e5b47762-e79e-4d60-8c0f-4798654f5e42.png)
+
+
 
 
 
