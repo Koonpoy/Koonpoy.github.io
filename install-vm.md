@@ -85,6 +85,9 @@ Type in a computer name and pick a username and password. I select the “Log in
 
 When installation is complete, click “Restart Now.”
 
+![image](https://user-images.githubusercontent.com/100128996/182836976-75468877-b96b-4cd2-a892-9b3fed47a851.png)
+
+
 
 
 
