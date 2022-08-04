@@ -62,9 +62,15 @@ Select disk layout.
 
 ![image](https://user-images.githubusercontent.com/100128996/182809818-b3a5b9a0-094a-48b6-9a96-8f3c27136144.png)
 
+Select Wipe all selected drives and ... " Enter "
+
 ![image](https://user-images.githubusercontent.com/100128996/182809884-15e60b30-3fb0-46b3-8123-b39fed915592.png)
 
+Choose btrfs and "Enter"
+
 ![image](https://user-images.githubusercontent.com/100128996/182809985-46f19448-4145-42b4-8e76-74ea91d31b88.png)
+
+Choose yes(default)
 
 ![image](https://user-images.githubusercontent.com/100128996/182810102-1f027b33-82c0-4b91-80b2-1c89a1f262d8.png)
 
