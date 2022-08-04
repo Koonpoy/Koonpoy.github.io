@@ -12,6 +12,5 @@ Now I'm Study ComputerEngineering at KMUTNB
 
 **my online blog**
 * [How to install Ubuntu on window 11](install-vm.md)
-* [How to install Arch Linux on window 11](install-arch-linux.md)
 
 
