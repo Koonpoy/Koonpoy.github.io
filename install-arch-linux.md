@@ -101,6 +101,59 @@ Right click the iso file and remove it .
 
 ![image](https://user-images.githubusercontent.com/100128996/182813915-bed2b05a-ae78-4dcb-a536-5b5e11f85bde.png)
 
+Click start .
+
+![image](https://user-images.githubusercontent.com/100128996/182814429-905b4410-ae3e-4e4a-86a5-4a00963213d5.png)
+
+boot " Arch linux "
+
+![image](https://user-images.githubusercontent.com/100128996/182814924-6f6b3abd-95aa-47c7-90ed-d4db51696dee.png)
+
+Login with your username and password that you create while install .
+
+![image](https://user-images.githubusercontent.com/100128996/182815226-22eb89ae-a600-41f5-8ce0-a89f21839f27.png)
+
+Write follow command down here.
+
+Commands :-
+ping archlinux.org
+pacman -S networkmanager network-manager-applet
+systemctl start NetworkManager
+systemctl enable NetworkManager
+nmtui (To connect to Wi-Fi)
+useradd -m -g wheel (your_user)
+passwd (your_user)
+su (your_user) (To switch user)
+pacman -S vi
+visudo
+pacman -S xorg-server xorg-xinit
+pacman -S lightdm
+pacman -S lightdm-gtk-greeter
+pacman -S lightdm-gtk-greeter-settings
+systemctl enable lightdm
+systemctl list-unit-files --state=enabled
+pacman -S i3-gaps i3status i3clock dmenu
+(Other alternatives of i3 -
+ dwm
+ awesome
+ bspwm
+ xmonad
+ XFCE
+ KDE
+ Gnome)
+pacman -S xfce4
+pacman -S alacritty
+(Other alternatives of alacritty -
+ st
+ rxvt-unicode
+ termite
+ terminator)
+pacman -S firefox
+pacman -S nautilus
+reboot
+
+
+
 
 
 
