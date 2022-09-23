@@ -1,4 +1,4 @@
-**[🢀 Back to Previous page](./)**
+**[🢀 Back to Previous page](https://github.com/Koonpoy/Koonpoy.github.io)**
 
 <img src="images/Mypicture.jpg" width="400" height="400">
 
