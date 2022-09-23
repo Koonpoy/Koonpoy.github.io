@@ -15,10 +15,10 @@ Now I'm Study ComputerEngineering at KMUTNB
 ### work-blog : 
 - [x] This sign is mean blog is done	 
 
-- ***Week <3>***
+***- Week <3>***
   - -[x] [How to install Ubuntu on window 11](install-vm.md)
 
-- ***Week <8>***
+***- Week <8>***
   - -[ ] [C Programming Aruino LED changing pattern](index.md)
   
 
