@@ -10,7 +10,9 @@ Now I'm Study ComputerEngineering at KMUTNB
 :envelope_with_arrow: s6401012630141@email.kmutnb.ac.th  
 :phone: 062-567-4015
 
-**my online blog**
+**Work-blog**
+Week 3
 * [How to install Ubuntu on window 11](install-vm.md)
+Week 8 
 
 
