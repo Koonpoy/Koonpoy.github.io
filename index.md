@@ -3,8 +3,8 @@
 <img src="images/Mypicture.jpg" width="400" height="400">
 
 ## Anecha Khumjun (poy)
-Thailand TH  
-Born in 2003  
+- Thailand TH  
+- Born in 2003  
 
 Now I'm Study ComputerEngineering at KMUTNB  
 
