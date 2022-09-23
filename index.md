@@ -11,7 +11,7 @@ Now I'm Study ComputerEngineering at KMUTNB
 :phone: 062-567-4015
 
 ### work-blog : 
-**-[x] This sign is mean blog is done **	 
+-[x] This sign is mean blog is done	 
 
 - ***Week <3>***
   - -[x] [How to install Ubuntu on window 11](install-vm.md)
