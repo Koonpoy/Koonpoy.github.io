@@ -6,11 +6,11 @@ Born in 2003
 
 Now I'm Study ComputerEngineering at KMUTNB  
 
-**contract**:  
+### contract:  
 :envelope_with_arrow: s6401012630141@email.kmutnb.ac.th  
 :phone: 062-567-4015
 
-### ->>Work-blog<<-
+### Work-blog: 
 
 - ***Week <3>***
   - -[x] [How to install Ubuntu on window 11](install-vm.md)
