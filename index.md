@@ -12,10 +12,10 @@ Now I'm Study ComputerEngineering at KMUTNB
 
 ### Work-blog
 
-- *** Week 3***
+- ***Week 3***
 
   - [How to install Ubuntu on window 11](install-vm.md)
 
-- ***##Week 8*** 
+- ***Week 8*** 
 
 
