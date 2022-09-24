@@ -77,7 +77,7 @@ void loop() {
 }
 ```
 
-#### gif_B
+#### [>> LINK TO WOWKI LED PATTERN B ](https://wokwi.com/projects/342306546684789330)
 
 ### LED changing pattern: C
 
@@ -124,7 +124,7 @@ void loop() {
 
 ```
 
-#### gif_D
+#### [>> LINK TO WOWKI LED PATTERN D ](https://wokwi.com/projects/342313318328828498)
 
 
 
