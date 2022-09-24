@@ -32,7 +32,7 @@ void loop() {
 }
 ```
 
-#### gif_A
+### [>> LINK TO WOWKI LED PATTERN A ](https://wokwi.com/projects/342306307751019090)
 
 ### LED changing pattern: B
 
