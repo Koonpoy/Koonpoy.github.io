@@ -133,7 +133,7 @@ void loop() {
   delay(1000);
 }
 ```
-#### [>> LINK TO WOWKI LED PATTERN A ](https://wokwi.com/projects/342308250134250066)
+#### [>> LINK TO WOWKI LED PATTERN C ](https://wokwi.com/projects/342308250134250066)
 
 ### LED changing pattern: D
 
