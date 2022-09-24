@@ -2,8 +2,8 @@
 
 ### LED changing pattern: A
 
-Step 1. Initially, only one LED (at index=0) is ON, and the rest of the LEDs are OFF.
-Step 2. The position of the ON LED should be moved to the next in a circular manner in a fixed time interval and then repeat Step 2.
+- Step 1. Initially, only one LED (at index=0) is ON, and the rest of the LEDs are OFF.
+- Step 2. The position of the ON LED should be moved to the next in a circular manner in a fixed time interval and then repeat Step 2.
 
 ```
 // LED changing pattern: A
