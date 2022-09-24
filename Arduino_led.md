@@ -142,7 +142,7 @@ void loop() {
 - Step 3. Move the positions of ON LEDs to the left by one position in a circular manner and repeat Step 3.
 
 ```c
-const int LED_PINS[] = {34,35,32,33} ;
+const int LED_PINS[] = {27,26,25,33} ;
 const int NUM_PINS = sizeof(LED_PINS)/sizeof(int) ;
 const int PWM_RESOLUTION = 8 ;
 const int DUTY_MAX = 1 << (PWM_RESOLUTION) ;
@@ -156,17 +156,18 @@ void setup() {
     pinMode(LED_PINS[i] , OUTPUT);
     ledcSetup(i,PWM_FREQ,PWM_RESOLUTION) ;
     ledcAttachPin(LED_PINS[i],i) ;
-      for (int x=0 ; x < NUM_DUTY ; x++){
-        ledcWrite(i,DUTY_PERCENT[x]);
-        delay(100);
-
   }
   }
   
-}
+
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  for(int i=0 ; i < NUM_PINS ; i++) {
+    for (int x=0 ; x < NUM_DUTY ; x++){
+      ledcWrite(i,DUTY_PERCENT[x]);
+      delay(1000);
+    }
+}
 }
 
 ```
