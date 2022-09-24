@@ -85,7 +85,100 @@ void loop() {
 - Step 2. Turn on the first LED by increasing the duty cycle of the PWM signal driving the LED, until the LED is fully ON.
 - Step 3. Repeat Step 2 with the next LED until all LEDs are fully ON.
 - Step 4. If all LEDs are ON, turn off LEDs one-by-one by decreasing the duty cycles of the PWM signals until all LEDs are OFF and repeat Steps 2-4.
+```c
+// LED changing pattern: C
 
+
+const int LED_PINS[] = {13,12,14,27} ;
+const int NUM_LEDS = sizeof(LED_PINS)/sizeof(int) ; 
+const int PWM_RESOLUTION = 8 ;
+const int DUTY_MAX = 1 << (PWM_RESOLUTION) ;
+const int PWM_FREQ = 5000 ;
+
+
+#define OFF (LOW) 
+#define ON (HIGH)
+
+
+void setup() {
+  // put your setup code here, to run once:
+for (int i=0 ; i < NUM_LEDS ; i++){
+  pinMode(LED_PINS[i], OUTPUT);
+}
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:  
+  int i=0 ;
+
+  for (i ; i < NUM_LEDS ; i++) {
+    ledcSetup(i,PWM_FREQ,PWM_RESOLUTION) ;
+    ledcAttachPin(LED_PINS[i],i) ;
+      for (int x=0 ; x < DUTY_MAX ; x++){
+        ledcWrite(i,x);
+        delay(10);
+
+  }
+  }
+  for (i-- ; i >= 0 ; i--){
+    ledcSetup(i,PWM_FREQ,PWM_RESOLUTION) ;
+    ledcAttachPin(LED_PINS[i],i) ;
+      for (int x=DUTY_MAX ; x >= 0 ; x--){
+        ledcWrite(i,x);
+        delay(10);
+
+
+  }
+  }
+  delay(1000);
+}// LED changing pattern: C
+
+
+const int LED_PINS[] = {13,12,14,27} ;
+const int NUM_LEDS = sizeof(LED_PINS)/sizeof(int) ; 
+const int PWM_RESOLUTION = 8 ;
+const int DUTY_MAX = 1 << (PWM_RESOLUTION) ;
+const int PWM_FREQ = 5000 ;
+
+
+#define OFF (LOW) 
+#define ON (HIGH)
+
+
+void setup() {
+  // put your setup code here, to run once:
+for (int i=0 ; i < NUM_LEDS ; i++){
+  pinMode(LED_PINS[i], OUTPUT);
+}
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:  
+  int i=0 ;
+
+  for (i ; i < NUM_LEDS ; i++) {
+    ledcSetup(i,PWM_FREQ,PWM_RESOLUTION) ;
+    ledcAttachPin(LED_PINS[i],i) ;
+      for (int x=0 ; x < DUTY_MAX ; x++){
+        ledcWrite(i,x);
+        delay(10);
+
+  }
+  }
+  for (i-- ; i >= 0 ; i--){
+    ledcSetup(i,PWM_FREQ,PWM_RESOLUTION) ;
+    ledcAttachPin(LED_PINS[i],i) ;
+      for (int x=DUTY_MAX ; x >= 0 ; x--){
+        ledcWrite(i,x);
+        delay(10);
+
+
+  }
+  }
+  delay(1000);
+}
+
+```
 #### image and gif
 
 ### LED changing pattern: D
