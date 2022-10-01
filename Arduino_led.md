@@ -40,6 +40,7 @@ void loop() {
 - Step 2. Turn on the LEDs one by one with a time delay, starting at index=0 until all LEDs are ON.
 - Step 3. If all LEDs are ON, turn off LEDs one by one starting at index=n-1,  where n is the total number of LEDs, until all LEDs are OFF, and repeat Steps 2-3.
 
+
 ```c
 // LED changing pattern: B
 
@@ -75,6 +76,7 @@ void loop() {
 
   }
 }
+
 ```
 
 #### [>> LINK TO WOWKI LED PATTERN B ](https://wokwi.com/projects/342306546684789330)
@@ -85,9 +87,10 @@ void loop() {
 - Step 2. Turn on the first LED by increasing the duty cycle of the PWM signal driving the LED, until the LED is fully ON.
 - Step 3. Repeat Step 2 with the next LED until all LEDs are fully ON.
 - Step 4. If all LEDs are ON, turn off LEDs one-by-one by decreasing the duty cycles of the PWM signals until all LEDs are OFF and repeat Steps 2-4.
+
+
 ```c
 // LED changing pattern: C
-
 
 const int LED_PINS[] = {13,12,14,27} ;
 const int NUM_LEDS = sizeof(LED_PINS)/sizeof(int) ; 
@@ -141,7 +144,9 @@ void loop() {
 - Step 2. Turn on the first 4 LEDs using PWM signals, each with different duty cycles (e.g. 100%, 50%, 25%, 10%), and the rest of the LEDs are OFF.
 - Step 3. Move the positions of ON LEDs to the left by one position in a circular manner and repeat Step 3.
 
+
 ```c
+
 const int LED_PINS[] = {27,26,25,33} ;
 const int NUM_PINS = sizeof(LED_PINS)/sizeof(int) ;
 const int PWM_RESOLUTION = 8 ;
