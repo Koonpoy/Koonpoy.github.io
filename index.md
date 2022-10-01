@@ -1,6 +1,6 @@
 **[🢀 Back to Previous page](https://github.com/Koonpoy/Koonpoy.github.io)**
 
-<img src="![image](https://user-images.githubusercontent.com/100128996/193411548-ac356d9a-df68-453a-9092-f7db533981de.png)" width="400" height="400">
+<img src="https://media.istockphoto.com/photos/rocking-astronaut-3d-render-picture-id621597534?k=20&m=621597534&s=612x612&w=0&h=feOiFpDr7yah5o8dY1yrhkUh-grNKJNCevZn_fV-qz4=" width="400" height="400">
 
 ## Anecha Khumjun (poy)
 - Thailand TH  
