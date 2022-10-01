@@ -1,6 +1,6 @@
 **[🢀 Back to Previous page](https://github.com/Koonpoy/Koonpoy.github.io)**
 
-<img src="images/Mypicture.jpg" width="400" height="400">
+<img src="![image](https://user-images.githubusercontent.com/100128996/193411548-ac356d9a-df68-453a-9092-f7db533981de.png)" width="400" height="400">
 
 ## Anecha Khumjun (poy)
 - Thailand TH  
