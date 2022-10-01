@@ -19,7 +19,7 @@ Now I'm Study ComputerEngineering at KMUTNB
   - -[x] [How to install Ubuntu on window 11](install-vm.md)
 
 - ***Week <8>***
-  - -[ ] [C Programming Arduino LED changing pattern](index.md)
+  - -[ ] [C Programming Arduino LED changing pattern](Arduino_led.md)
   
 
 
